@@ -1,3 +1,4 @@
+import plotly.express as px
 conf_records = []
 
 def get_confidence():
